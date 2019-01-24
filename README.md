@@ -23,7 +23,6 @@ __this is *louder* still__
 
 # Link to my site
 
-https://phillustrationsweb.wixsite.com/mysite - automatic!
 [personal site](https://phillustrationsweb.wixsite.com/mysite)
 
 ### Ricky Bobby once stated:
